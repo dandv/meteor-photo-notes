@@ -1,3 +1,6 @@
+Notes = new Mongo.Collection('notes');
+Meteor.subscribe('notes');
+
 var cameraOptions = {
   width: 800,
   height: 600
