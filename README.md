@@ -11,7 +11,7 @@ http://tidepool.meteor.com
 
 ## Features
 
-* Take pictures from Chrome (works on desktop and Android, and may work on iOS with some caveats)
+* Take pictures from Chrome (works on desktop (Windows, OS X) and Android with some limitation) or Firefox and Opera. [Safari and IE unfortunately don't support camera access](http://caniuse.com/#search=getusermedia).
 
 * Upload photo to cloud (visit the http://tidepool.meteor.com instance)
 
